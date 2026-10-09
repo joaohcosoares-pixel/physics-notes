@@ -21,9 +21,9 @@ Um espaço vetorial é um conjunto $V$ com as seguintes propriedades:
 3. **Identidade Aditiva**$$\exists \space 0 \in V/ v+0=v, \quad v\in V$$
 4. **Aditiva Inversa** $$\forall \space v \in V \space \exists \space w \in V/ v+w=0$$
 5. **Identidade Multiplicativa**$$1v=v\space \forall \space v \in V$$
-6. **Propriedade Distributiva**$$\begin{align}
+6. **Propriedade Distributiva**$$
 a(u+v)=au+av, \space \forall(a \in \mathbf{F}; u,v\in V)
-\end{align}$$[^1]
+$$[^1]
 ---
 >[!info] Definição de Vetores
 >Vetor é um elemento de um espaço Vetorial [^1]
